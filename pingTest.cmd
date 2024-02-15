@@ -1,0 +1,1 @@
+ping www.baidu.com -n 5 > C:\test\pingTest.log
